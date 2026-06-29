@@ -1,0 +1,7 @@
+{"version":1,"strings":[
+{"hash":257819460,"name":"hlphash.sreadbeyondstreamenderror","sourcebytes":[67,97,110,110,111,116,32,114,101,97,100,32,98,101,121,111,110,100,32,115,116,114,101,97,109,32,101,110,100],"value":"Cannot read beyond stream end"},
+{"hash":243028191,"name":"hlphash.sinvalidbuffersize","sourcebytes":[66,117,102,102,101,114,83,105,122,101,32,109,117,115,116,32,98,101,32,103,114,101,97,116,101,114,32,116,104,97,110,32,122,101,114,111],"value":"BufferSize must be greater than zero"},
+{"hash":93846364,"name":"hlphash.sastreamnilerror","sourcebytes":[65,83,116,114,101,97,109,32,99,97,110,110,111,116,32,98,101,32,110,105,108],"value":"AStream cannot be nil"},
+{"hash":121326884,"name":"hlphash.sfilenotfound","sourcebytes":[70,105,108,101,32,34,37,115,34,32,110,111,116,32,102,111,117,110,100],"value":"File \"%s\" not found"},
+{"hash":124186200,"name":"hlphash.sclonenotimplemented","sourcebytes":[67,108,111,110,101,32,102,117,110,99,116,105,111,110,32,110,111,116,32,105,109,112,108,101,109,101,110,116,101,100,32,102,111,114,32,34,37,115,34,32,104,97,115,104],"value":"Clone function not implemented for \"%s\" hash"}
+]}

@@ -1,0 +1,12 @@
+# Ignore replacement files that may contain secrets
+replace.txt
+replace_*.txt
+
+# Ignore local generated files
+/tools/replace.txt
+*.log
+config.ini
+resources/config.ini
+token_git/
+resources/client_secret_593692690842-d3t4lbahbhdesv2fhh62896qoct1q6jq.apps.googleusercontent.com.json
+server
